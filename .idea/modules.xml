@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ADS_Assignment_3.iml" filepath="$PROJECT_DIR$/.idea/ADS_Assignment_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ADS_Assignment_3.iml" filepath="$PROJECT_DIR$/ADS_Assignment_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Coins/Coins.iml" filepath="$PROJECT_DIR$/Coins/Coins.iml" />
       <module fileurl="file://$PROJECT_DIR$/Queens/Queens.iml" filepath="$PROJECT_DIR$/Queens/Queens.iml" />
     </modules>

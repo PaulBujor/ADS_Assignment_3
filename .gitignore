@@ -26,3 +26,6 @@ hs_err_pid*
 /Queens/target
 /Coins/target
 .idea/uiDesigner.xml
+Queens/Queens.iml
+Coins/Coins.iml
+ADS_Assignment_3.iml

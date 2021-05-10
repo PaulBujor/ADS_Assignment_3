@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Coins!");
+
 
         List<Integer> coins = new ArrayList<>();
         coins.add(1);
@@ -12,7 +12,6 @@ public class Main {
         coins.add(7);
         int n = 1222;
         Coins coins1 = new Coins();
-        System.out.println(coins1.findMin(coins, n));
-        System.out.println(coins1.showMap());
+        System.out.println("The minimum amount of coins is: " + coins1.findMin(coins, n));
     }
 }

@@ -13,6 +13,5 @@ public class Main {
         int n = 1222;
         Coins coins1 = new Coins();
         System.out.println(coins1.findMin(coins, n));
-        System.out.println(coins1.showMap());
     }
 }

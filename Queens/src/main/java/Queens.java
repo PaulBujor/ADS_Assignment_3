@@ -41,6 +41,7 @@ public class Queens {
     }
 
     private boolean check(int[] table, int k) {
+        //decrease row index to compensate for elements in table
         int i = table[k]-1;
         //no need to check vertically as there is always only one queen in a column
         return checkHorizontal(table, i, k) && checkPrimaryDiagonal(table, i, k) && checkSecondaryDiagonal(table, i, k);
